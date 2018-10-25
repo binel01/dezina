@@ -5,7 +5,8 @@
 		"description": "This is a short descrition of product 1",
 		"price": "17",
 		"image": "https://images.pexels.com/photos/853411/pexels-photo-853411.jpeg",
-		"gender": "female"
+		"gender": "female",
+		"bestSeller": true
 	},
 	{
 		"id": "134",
@@ -13,7 +14,8 @@
 		"description": "This is a short descrition of product 2",
 		"price": "27",
 		"image": "https://images.pexels.com/photos/374685/pexels-photo-374685.jpeg",
-		"gender": "female"
+		"gender": "male",
+		"bestSeller": false
 	},
 	{
 		"id": "145",
@@ -21,7 +23,8 @@
 		"description": "This is a short descrition of product 3",
 		"price": "23",
 		"image": "https://images.pexels.com/photos/1166414/pexels-photo-1166414.jpeg",
-		"gender": "female"
+		"gender": "female",
+		"bestSeller": false
 	},
 	{
 		"id": "23",
@@ -29,7 +32,8 @@
 		"description": "This is a short descrition of product 3",
 		"price": "345",
 		"image": "https://images.pexels.com/photos/853411/pexels-photo-853411.jpeg",
-		"gender": "female"
+		"gender": "male",
+		"bestSeller": true
 	},
 	{
 		"id": "563",
@@ -37,7 +41,8 @@
 		"description": "This is a short descrition of product 7878",
 		"price": "6567",
 		"image": "https://images.pexels.com/photos/378271/pexels-photo-378271.jpeg",
-		"gender": "female"
+		"gender": "female",
+		"bestSeller": true
 	},
 	{
 		"id": "878",
@@ -45,7 +50,8 @@
 		"description": "This is a short descrition of product 87",
 		"price": "90",
 		"image": "https://images.pexels.com/photos/952057/pexels-photo-952057.jpeg",
-		"gender": "female"
+		"gender": "male",
+		"bestSeller": true
 	},
 	{
 		"id": "766",
@@ -53,7 +59,8 @@
 		"description": "This is a short descrition of product 76",
 		"price": "67676",
 		"image": "https://images.pexels.com/photos/378271/pexels-photo-378271.jpeg",
-		"gender": "female"
+		"gender": "female",
+		"bestSeller": false
 	},
 	{
 		"id": "65656",
@@ -61,7 +68,8 @@
 		"description": "This is a short descrition of product 23",
 		"price": "89898",
 		"image": "https://images.pexels.com/photos/936048/pexels-photo-936048.jpeg",
-		"gender": "female"
+		"gender": "female",
+		"bestSeller": false
 	},
 	{
 		"id": "67",
@@ -69,7 +77,8 @@
 		"description": "This is a short descrition of product 18",
 		"price": "879",
 		"image": "https://images.pexels.com/photos/949223/pexels-photo-949223.jpeg",
-		"gender": "female"
+		"gender": "female",
+		"bestSeller": true
 	},
 	{
 		"id": "879",
@@ -77,6 +86,7 @@
 		"description": "This is a short descrition of product 9990",
 		"price": "234",
 		"image": "https://images.pexels.com/photos/936127/pexels-photo-936127.jpeg",
-		"gender": "female"
+		"gender": "female",
+		"bestSeller": true
 	}
 ]
